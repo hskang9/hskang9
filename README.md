@@ -19,3 +19,4 @@ Mr.
 - ⚡ Fun fact: <br> 
 I am a veteran 👨‍🏭 <br>
 I am 25 years old and still not sure what I want to be 🤷‍♂️
+I like working on computers and robots but still want to make a family wtf
