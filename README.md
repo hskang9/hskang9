@@ -18,4 +18,4 @@ hskang9@gmail.com
 Mr.
 - ⚡ Fun fact: <br> 
 I am a veteran 👨‍🏭 <br>
-I am 25 years old and still not sure what I want to be.
+I am 25 years old and still not sure what I want to be 🤷‍♂️
