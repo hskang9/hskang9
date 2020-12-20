@@ -5,13 +5,13 @@
 - 🔭 I’m currently working on ... <br>
 blockchains, smart contracts, javascript libraries, rust
 - 🌱 I’m currently learning ...<br>
-iOS development
+React native(android), Finance
 - 👯 I’m looking to collaborate on ... <br>
 DAOs, lending/borrowing protocol, robotics
 - 🤔 I’m looking for help ... <br>
 on learning robotics
 - 💬 Ask me about ... <br>
-wel..
+blockchains and ethereum?
 - 📫 How to reach me:<br> 
 hskang9@gmail.com
 - 😄 Pronouns: <br>
