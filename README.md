@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on ... <br>
 blockchains, smart contracts, javascript libraries, rust
 - 🌱 I’m currently learning ...<br>
-React native(android), Finance
+EVM
 - 👯 I’m looking to collaborate on ... <br>
 DAOs, lending/borrowing protocol, robotics
 - 🤔 I’m looking for help ... <br>
